@@ -81,8 +81,8 @@
 		<dc:contributor id="transcriber-4">David Wilson</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">Wilson, David</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-5">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-5">Online Distributed Proofreading Team, The</meta>
+		<dc:contributor id="transcriber-5">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-5">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Hendrik Kaiber</dc:contributor>
