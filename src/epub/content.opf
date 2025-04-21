@@ -39,6 +39,7 @@
 		<meta property="term" refines="#subject-3">sh85121813</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of fantasy and science fiction short fiction by Andre Norton.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/andre-norton"&gt;Andre Norton&lt;/a&gt; was an American author of fantasy and science fiction. She achieved significant commercial and critical success with her stories during her over seventy-year literary career, influencing many authors and winning various awards—as well as having an award named after her.&lt;/p&gt;
